@@ -1,0 +1,7 @@
+server : 
+   port : 8081
+   
+info :
+   app :
+     name : notifications-replica
+     desc : Deals with all kind of notifications
